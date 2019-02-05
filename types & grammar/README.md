@@ -11,7 +11,6 @@
 [Table of Contents](toc.md)
 
 * [Foreword](foreword.md) (by [David Walsh](http://davidwalsh.name))
-* [Preface](../preface.md)
 * [Chapter 1: Types](ch1.md)
 * [Chapter 2: Values](ch2.md)
 * [Chapter 3: Natives](ch3.md)

@@ -14,6 +14,15 @@
 
 
 
+
+
+
+
+
+## License & Copyright
+
+The materials herein are all © 2013-2019 Kyle Simpson.
+
 Credit and Source code owner - Kyle Simpson
 
 The Book content is only copied for education and knowledge purpose.
